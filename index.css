@@ -120,7 +120,7 @@ main {
     text-align: left;
     display: flex;
     flex-direction: row;
-    height: 60%;
+    height: 50%;
     width: 75%;
     position: relative;
   }
